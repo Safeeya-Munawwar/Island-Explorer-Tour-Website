@@ -48,6 +48,8 @@ npm start
 
 Visit http://localhost:3000
 
+---
+
 ## 📧 EmailJS Configuration
 
 - Sign up at https://www.emailjs.com
@@ -74,6 +76,8 @@ npm install @emailjs/browser
     'your_public_key'
   )
 
+---
+
 ## 📁 Folder Structure
 
 /island-explorer
@@ -92,6 +96,8 @@ npm install @emailjs/browser
 ├── vite.config.js
 └── README.md
 
+---
+
 ## 📦 Deployment
 
 Deployed using Vercel:
@@ -101,15 +107,19 @@ npm run build
 
 Push to GitHub and connect the repo to https://vercel.com for seamless deployment.
 
+---
+
 ## 📬 License
 MIT License — free to use, modify, and distribute.
+
+---
 
 ## 👩‍💻 Developed by
 Safeeya Munawwar
 Web & App Developer | React, Node.js, PHP, MySQL
 📧 shafiyasha0036@gmail.com
 📞 +94 75 090 6149
-🔗 LinkedIn | GitHub 
+🔗 https://www.linkedin.com/in/safeeya-munawwar | https://github.com/Safeeya-Munawwar 
 
 
 
