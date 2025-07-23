@@ -6,7 +6,7 @@ A responsive and interactive tourism website built using **React**. Users can ex
 
 ## 🚀 Live Demo
 
-![View Demo](./public/Demo.mp4)
+[![Watch the Demo](./public/images/demo.PNG)](https://drive.google.com/file/d/1GdyyQNFKTvMLBfFikFHdbGaiDYhA2axd/view?usp=drive_link)
 
 ---
 ## ✨ Features
