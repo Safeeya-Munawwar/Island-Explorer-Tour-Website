@@ -4,6 +4,11 @@ A responsive and interactive tourism website built using **React**. Users can ex
 
 ---
 
+## 🚀 Live Demo
+
+![View Demo](./public/images/demo.mp4)
+
+---
 ## ✨ Features
 
 - 🏖️ Explore beautiful destinations in Sri Lanka
