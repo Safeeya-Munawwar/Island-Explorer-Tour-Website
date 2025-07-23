@@ -25,9 +25,13 @@ A responsive and interactive tourism website built using **React**. Users can ex
 
 ## 👩‍💻 Developed by
 Safeeya Munawwar
+
 Web & App Developer | React, Node.js, PHP, MySQL
+
 📧 shafiyasha0036@gmail.com
+
 📞 +94 75 090 6149
+
 🔗 https://www.linkedin.com/in/safeeya-munawwar | https://github.com/Safeeya-Munawwar 
 
 
