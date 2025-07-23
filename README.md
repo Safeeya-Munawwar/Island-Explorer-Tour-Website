@@ -2,11 +2,6 @@
 
 A responsive and interactive tourism website built using **React**. Users can explore destinations, view activities, and send booking/inquiry emails directly via **EmailJS** — no backend required!
 
-## 🚀 Live Demo
-
-Hosted on **Vercel**  
-🔗 [https://islandexplorer.vercel.app](https://islandexplorer.vercel.app) *(Replace with your actual deployment URL)*
-
 ---
 
 ## ✨ Features
