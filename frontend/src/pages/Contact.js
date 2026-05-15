@@ -41,7 +41,7 @@ export default function Contact() {
           <div style={{ flex: '1 1 300px', backgroundColor: '#fff', padding: '20px', borderRadius: '10px', boxShadow: '0 4px 10px rgba(0,0,0,0.1)', border: '1px solid #228B22' }}>
             <h3 style={{ color: '#228B22', marginBottom: '16px' }}>Get in Touch</h3>
             <p style={{ display: 'flex', alignItems: 'center', gap: '10px', color: '#555', marginBottom: '12px' }}>
-              <FaPhone color="#006400" /> +94 75 123 4567
+              <FaPhone color="#006400" /> +94 77 123 4567
             </p>
             <p style={{ display: 'flex', alignItems: 'center', gap: '10px', color: '#555', marginBottom: '12px' }}>
               <FaEnvelope color="#006400" /> info@explorelanka.com
